@@ -1,0 +1,123 @@
+.jointable {
+	width:620px;
+	padding: 30px 15px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	color: inherit;
+	background-color:rgba( 255, 255, 255, 0.5 );
+}
+
+.join_mobile .etc3_area .btn_verify {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 115px;
+	height: 51px;
+	padding: 18px 0 16px;
+	text-align: center;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	text-decoration: none
+}
+
+button, input, select {
+	border: 0;
+	border-radius: 0;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none
+}
+
+.int {
+	display: block;
+	position: relative;
+	width: 100%;
+	height: 29px;
+	line-height: 29px;
+	border: none;
+	background: #fff;
+	font-size: 15px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	z-index: 10;
+	*position: absolute;
+	*top: 0;
+	*left: 0;
+	apperance: none;
+	-webkit-apperance: none;
+}
+
+.btn_area {
+	margin: 30px 0 9px
+}
+
+.btn_type {
+	display: block;
+	width: 100%;
+	padding: 21px 0 17px;
+	font-size: 20px;
+	font-weight: 700;
+	text-align: center;
+	cursor: pointer;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box
+}
+
+.btn_primary {
+	color: #fff;
+	background-color: #ff962d
+}
+
+#content {
+	width: 460px;
+	margin: 0 auto
+}
+
+.tel1 {
+	width: 100%;
+	height: 29px;
+	padding: 7px 8px 6px 7px\9;
+	font-size: 15px;
+	line-height: 18px;
+	color: #000;
+	border: none;
+	border-radius: 0;
+	*height: auto;
+	*margin-top: 3px;
+	-webkit-appearance: none
+}
+
+.join_title {
+	margin: 19px 0 8px;
+	font-size: 14px;
+	font-weight: 700
+}
+
+.etc {
+	display: block;
+	position: relative;
+	width: 100%;
+	height: 51px;
+	border: solid 1px #dadada;
+	padding: 10px 14px 10px 14px;
+	background: #fff;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	vertical-align: top
+}
+
+.tel_wrap, .name_wrap {
+	display: table;
+	width: 100%
+}
+
+.thirdnum, .sbox, .secondnum {
+	display: table-cell;
+	table-layout: fixed;
+	width: 147px;
+	vertical-align: middle;
+	*display: block;
+	*float: left
+}
+
+.etc3_area{position:relative;margin-top:10px;padding:0 125px 0 0}
